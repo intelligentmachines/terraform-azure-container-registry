@@ -1,4 +1,4 @@
-### Example: How to create resource group in Azure using terraform.
+### Example: How to create container registry in Azure using terraform.
 
 
 ### Instruction
