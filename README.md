@@ -22,7 +22,7 @@ This module is for deploying `container registry` resource in Azure using Terraf
 ```
 module "my_container_registry" {
     source = "intelligentmachines/container-registry/azure"
-    version = "0.0.1"
+    version = "0.0.3"
 
     name = "samplename"
     resource_group = "resource_group_name"
